@@ -8,4 +8,4 @@ The project works in the flow of -
 
 4.Then the multivariate forecasting is done using the same LSTM model for the forecasting of all AC's simultaneously with the avg temperature.
 
-5.The last is the multivariate forecating using the fbprophet library by facebook, there were environment issues so implementation is done in the pycharm ide, the instruction are given to proerly use the module.
+5.The last is the multivariate forecating using the fbprophet library by facebook, there were environment issues so implementation is done in the pycharm ide, the instruction are given to proerly use the module. The predicted .csv is also created.
